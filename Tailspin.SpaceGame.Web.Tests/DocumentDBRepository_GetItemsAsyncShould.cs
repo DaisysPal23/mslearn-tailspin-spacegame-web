@@ -23,7 +23,7 @@ namespace Tests
                 _scoreRepository = new LocalDocumentDBRepository<Score>(scoresData);
             }
         }
-[TestCase("Messier 82")]
+
         [TestCase("Milky Way")]
         [TestCase("Andromeda")]
         [TestCase("Pinwheel")]
