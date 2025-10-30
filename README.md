@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/daisyspal23/pl-workflows/_apis/build/status%2FDaisysPal23.mslearn-tailspin-spacegame-web%20(15)?branchName=main)](https://dev.azure.com/daisyspal23/pl-workflows/_build/latest?definitionId=15&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
@@ -63,3 +63,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
